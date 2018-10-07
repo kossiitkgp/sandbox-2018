@@ -1,3 +1,5 @@
+Hello World
+
 This is a place to practice git. Your first exercise is to add your name to this list.
 To complete this exercise you need to:
 
