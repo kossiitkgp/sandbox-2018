@@ -18,4 +18,5 @@ This file is written in the [Markdown format](https://guides.github.com/features
 Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
 
 # Entries
+Navaneeth Suresh [themousepotato](https://github.com/themousepotato)
 Taapas Agrawal [taapas1128](https://github.com/taapas1128)
