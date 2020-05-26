@@ -1,4 +1,4 @@
-This is a place to practice git. Your first exercise is to add your name to this list.
+ved This is a place to practice git. Your first exercise is to add your name to this list.
 To complete this exercise you need to:
 
 Your entry should maintain alphabetic order and it should be in the format:
@@ -19,3 +19,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 
 # Entries
 Taapas Agrawal [taapas1128](https://github.com/taapas1128)
+
+Vikash 
+There is a way. 
+Tooo
